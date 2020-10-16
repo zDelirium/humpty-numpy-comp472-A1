@@ -35,6 +35,7 @@ Here are the models available and their name:
 	- A1_Best_DT : Contains the Best Decision Tree model.
 	- A1_Best_MLP : Contains the Best Multilayer Perceptron model.
 	- A1_GNB : Contains the Gaussian Naive Bayes model.
+	- A1_PER : Contains the Perceptron model.
 	- A1_plot_dist : Contains the code to generate bar graphs of the distribution of classes in the dataset 1 and 2.
 	
 Once you click on a model, a new page with the python code will open.
@@ -65,3 +66,11 @@ Those cells take a very, very long time to run. Beware.
 
 7 - The output files will appear in the folder A1-Output where you have extracted our project, and are
 also visible in the main page where you can choose a model.
+
+=====================================
+
+Contributions:
+
+Ernest, for the base code, plot distribution, perceptron model and gaussian naive bayes model.
+Ines, for both Multi Layered Perceptron models.
+Joel, for both Decision Tree models.

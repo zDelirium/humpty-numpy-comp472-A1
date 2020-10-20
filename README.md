@@ -1,4 +1,5 @@
 # humpty-numpy-comp472-A1
+https://github.com/zDelirium/humpty-numpy-comp472-A1
 
 To run the models and get some data outputs, here are the steps to follow:
 
